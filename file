@@ -1,11 +1,4 @@
 {
   "api" : "pri",
-  "key" : {
-    "alt" : "hqaGtm9gHt1akdk31EhJcVXx"
-  },
-  "mode" : "execute",
-  "action" : {
-    "execute" : "execute?name=ShortcutsLogger&timeout=45",
-    "notify" : "notifications\/MyNotification"
-  }
+  "mode" : "execute"
 }
